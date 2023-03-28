@@ -111,3 +111,13 @@ https://voicevox.hiroshiba.jp/　
 37	四国めたん	ヒソヒソ
 
 38	ずんだもん	ヒソヒソ
+
+
+# 開発環境
+参考までに
+
+Windows 11 Home
+
+Python 3.7.0
+
+VScode
