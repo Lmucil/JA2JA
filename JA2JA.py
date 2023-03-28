@@ -17,7 +17,7 @@ port = 50021
 
 params = (
     ("text", text),
-    ("speaker", 14) #キャラの選択
+    ("speaker", 14) #キャラクターの変更
 )
 
 response1 = requests.post(
