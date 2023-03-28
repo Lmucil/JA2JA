@@ -3,7 +3,7 @@
 
 日本語で何か言うと、それをSpeechRecognitionで文字に書き出して、それをVoiceVoxに読ませます。
 
-python ファイルを開いて、コメントで「キャラの数字」と書いてあるところに下記キャラクターの番号を入れて下さい。
+python ファイルを開いて、コメントで「キャラの数字」と書いてあるところに下記キャラクターの番号を入れて下さい。（20行目）
 
 <img width="278" alt="EaseUS_2023_03_28_19_57_17" src="https://user-images.githubusercontent.com/112993351/228392543-ab4e83b7-64f3-4122-bb42-953183af2c4a.png">
 
