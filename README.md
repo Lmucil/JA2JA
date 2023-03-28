@@ -9,6 +9,17 @@ VoiceVoxを開いたままの利用が必要です。
 
 スペックが低いpcだと出力に時間がかかります。
 
+# 必要事項
+
+VoiceVox, Python3
+
+VoiceVoxについては、
+
+https://voicevox.hiroshiba.jp/
+
+からダウンロードしてください。
+
+
 # キャラ変更
 注意！
 
