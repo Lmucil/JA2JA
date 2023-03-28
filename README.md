@@ -14,7 +14,12 @@ VoiceVoxを開いたままの利用が必要です。
 
 キャラごとに利用規約が違います。
 
-何かに使いたいのであれば、https://voicevox.hiroshiba.jp/　でご確認ください。
+何かに使いたいのであれば、
+
+https://voicevox.hiroshiba.jp/　
+
+でご確認ください。
+
 
 0	四国めたん	あまあま
 
