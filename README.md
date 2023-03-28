@@ -3,7 +3,7 @@
 
 日本語で何か言うと、それをSpeechRecognitionで文字に書き出して、それをVoiceVoxに読ませます。
 
-python ファイルを開いて、コメントで「キャラクター変更」と書いてあるところで声を変更して下さい。
+python ファイルを開いて、コメントで「キャラクターの数字」と書いてあるところに下記キャラクターの番号を変更して下さい。
 
 VoiceVoxを開いたままの利用が必要です。
 
@@ -11,13 +11,15 @@ VoiceVoxを開いたままの利用が必要です。
 
 # 必要事項
 
-VoiceVox, Python3
+VoiceVox, Python3, pyaudio, SpeechRecognition
 
 VoiceVoxについては、
 
 https://voicevox.hiroshiba.jp/
 
 からダウンロードしてください。
+
+二つのライブラリはpipからふつうにいけます。
 
 
 # キャラ変更
