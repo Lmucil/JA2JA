@@ -13,7 +13,7 @@ VoiceVoxを開いたままの利用が必要です。
 
 # 必要事項
 
-VoiceVox, Python3, pyaudio, SpeechRecognition
+VoiceVox, Python3, pyaudio, SpeechRecognition, pykakasi
 
 VoiceVoxについては、
 
