@@ -23,7 +23,7 @@ https://voicevox.hiroshiba.jp/
 
 からダウンロードしてください。
 
-三つのライブラリはpipからふつうにいけます。
+三つのライブラリは python3があれば、batch file の 'Requirements'を開くとインストールできます。（ふつうにpipでいけます）
 
 
 # キャラ変更
