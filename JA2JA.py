@@ -1,6 +1,9 @@
-import requests, simpleaudio, tempfile, json
+import requests
+import json
+import tempfile
+import requests
+import simpleaudio
 import speech_recognition as sr
-import pykakasi
 
 #音声を聞き取る
 mic = sr.Recognizer()
@@ -12,15 +15,7 @@ try:
 except:
     print(u"聞き取れませんでした。")
 
-#全部カタカナに変換する
-kks = pykakasi.kakasi()
-kks.setMode("J", "K")  # 漢字からカタカナ
-kks.setMode("H", "K")  # ひらがなからカタカナ
-kks.setMode("K","K")   #カタカナはそのまま
-result = kks.convert(text)
-hiragana = set([chr(i) for i in range(12353, 12436)])  
-output = ''.join([r['hira'] if r['orig'] in hiragana else r['kana'] for r in result])
-
+print(text)
 #HTTP リクエスト
 host = "127.0.0.1" 
 port = 50021
