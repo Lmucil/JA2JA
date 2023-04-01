@@ -1,7 +1,7 @@
 # JA2JA
 声を変換するだけの簡単なプログラムです。
 
-日本語で何か言うと、それをSpeechRecognitionで文字に書き出して、pykakasiでカタカナに直し、それをVoiceVoxに読ませます。
+日本語で何か言うと、それをSpeechRecognitionで文字に書き出して、それをVoiceVoxに読ませます。
 
 python ファイルを開いて、コメントで「キャラの数字」と書いてあるところに下記キャラクターの番号を入れて下さい。（20行目）
 
@@ -15,7 +15,7 @@ VoiceVoxを開いたままの利用が必要です。
 
 # 必要事項
 
-VoiceVox, Python3, pyaudio, SpeechRecognition, pykakasi
+VoiceVox, Python3, pyaudio, SpeechRecognition
 
 VoiceVoxについては、
 
@@ -23,7 +23,7 @@ https://voicevox.hiroshiba.jp/
 
 からダウンロードしてください。
 
-三つのライブラリは python3があれば、batch file の 'Requirements'を開くとインストールできます。（ふつうにpipでいけます）
+二つのライブラリは python3があれば、batch file の 'Requirements'を開くとインストールできます。（ふつうにpipでいけます）
 
 
 # キャラ変更
@@ -142,3 +142,6 @@ VoiceVoxを開いたまま実行が必要です
 Pythonライブラリのpykakasiを使うことで、漢字をカタカナに変換するようにしました。
 
 多分精度は上がってると思います。
+
+# さらに追記
+カタカナに変換したら、こんにちは、をkonnnichiWAと発音したので変換は諦めました。
