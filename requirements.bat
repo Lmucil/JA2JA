@@ -1,2 +1,3 @@
 @echo off
-pip install pyaudio SpeechRecognition pykakasi
+pip install pyaudio SpeechRecognition 
+
