@@ -145,3 +145,6 @@ Pythonライブラリのpykakasiを使うことで、漢字をカタカナに変
 
 # さらに追記
 カタカナに変換したら、こんにちは、をkonnnichiHAと文字通り発音したので変換は諦めました。
+
+#English to Japanese
+I am planning to make repo of English to Japanese version.
