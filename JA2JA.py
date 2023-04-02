@@ -16,7 +16,8 @@ except:
     print(u"聞き取れませんでした。")
 
 print(text)
-#HTTP リクエスト
+
+
 host = "127.0.0.1" 
 port = 50021
 
