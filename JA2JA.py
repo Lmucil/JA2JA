@@ -23,7 +23,7 @@ port = 50021
 #文の設定とキャラ変更と
 params = (
     ("text", output),
-    ("speaker", 14) 
+    ("speaker", 14)        #キャラ変更
 )
 
 #POST
