@@ -7,7 +7,13 @@ python ファイルを開いて、コメントで「キャラ変更」と書い�
 
 そのままだと14になっております。（冥鳴ひまり）
 
-<img width="278" alt="EaseUS_2023_03_28_19_57_17" src="https://user-images.githubusercontent.com/112993351/228392543-ab4e83b7-64f3-4122-bb42-953183af2c4a.png">
+'''
+#文の設定とキャラ変更と
+params = (
+    ("text", output),
+    ("speaker", 14)        #キャラ変更
+)
+'''
 
 VoiceVoxを開いたままの利用が必要です。
 
