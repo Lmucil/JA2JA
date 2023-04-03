@@ -71,7 +71,6 @@ VScode
 
 ~多分精度は上がってると思います。~
 
-# さらに追記
 カタカナに変換したら、こんにちは、をkonnnichiHAと文字通り発音したので変換は諦めました。
 
 # English to Japanese
