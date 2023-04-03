@@ -15,22 +15,7 @@ params = (
 )
 ```
 
-VoiceVoxを開いたままの利用が必要です。
-
 スペックが低いpcだと出力に時間がかかります。
-
-# 必要事項
-
-VoiceVox, Python3, pyaudio, SpeechRecognition
-
-VoiceVoxについては、
-
-https://voicevox.hiroshiba.jp/
-
-からダウンロードしてください。
-
-二つのライブラリは python3があれば、batch file の 'Requirements'を開くとインストールできます。（ふつうにpipでいけます）
-
 
 # キャラ変更
 注意！
@@ -123,6 +108,18 @@ https://voicevox.hiroshiba.jp/　
 38	ずんだもん	ヒソヒソ
 
 
+# 必要事項
+
+VoiceVox, Python3, pyaudio, SpeechRecognition
+
+VoiceVoxについては、
+
+https://voicevox.hiroshiba.jp/
+
+からダウンロードしてください。
+
+二つのライブラリは python3があれば、batch file の 'Requirements'を開くとインストールできます。（ふつうにpipでいけます）
+
 # 開発環境
 参考までに
 
@@ -134,6 +131,8 @@ VScode
 
 # 注意事項
 VoiceVoxを開いたまま実行が必要です
+
+スペックが低いpcだと出力に時間がかかります。
 
 何かに使うのならばキャラごとに違う利用規約の確認も必要です。
 
