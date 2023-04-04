@@ -1,3 +1,3 @@
 @echo off
-pip install pyaudio SpeechRecognition 
-
+pip install pyaudio 
+pip install SpeechRecognition 
