@@ -54,10 +54,4 @@ with tempfile.TemporaryDirectory() as tmp:
 # VOICEVOXエンジンを開いておいてください。
 # VOICEVOXエンジンを開いておいてください。
 # VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
+
