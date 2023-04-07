@@ -19,6 +19,8 @@ params = (
 
 スペックが低いpcだと出力に時間がかかります。
 
+GPUではなくCPUで処理すると、20秒ぐらいかかります。
+
 # 必要事項
 
 **VoiceVox, Python3, pyaudio, SpeechRecognition**
