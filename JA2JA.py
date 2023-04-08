@@ -33,7 +33,7 @@ response1 = requests.post(
     params=params
 )
 
-#もいっかい
+#再度
 response2 = requests.post(
     f"http://{host}:{port}/synthesis",
     headers={"Content-Type": "application/json"},
@@ -52,6 +52,5 @@ with tempfile.TemporaryDirectory() as tmp:
 
 
 # VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
-# VOICEVOXエンジンを開いておいてください。
+
 
