@@ -4,6 +4,8 @@ import tempfile
 import requests
 import simpleaudio
 import speech_recognition as sr
+import keyboard
+import numpy as np
 
 #音声を聞き取る
 mic = sr.Recognizer()
@@ -52,5 +54,3 @@ with tempfile.TemporaryDirectory() as tmp:
 
 
 # VOICEVOXエンジンを開いておいてください。
-
-
