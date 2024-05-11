@@ -38,8 +38,6 @@ https://voicevox.hiroshiba.jp/　
 スペックが低いpcだと出力に時間がかかります。
 
 # 開発環境
-参考までに
-
 Windows 11 Home
 
 Python 3.7.0
